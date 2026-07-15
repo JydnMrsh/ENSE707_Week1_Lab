@@ -32,6 +32,14 @@ QA vs QC - Quality assurance means preventing bugs and errors through code befor
 Discussion Question:
 Because you can only test what you can think might go wrong, but you never know how a user will use your program and might produce errors you didn't think of.
 
+Activity 7:
+Discussion Question:
+- Correctness - The program should be correct and produce the expected output.
+- Reliability - The program should be reliable and not crash or produce unexpected errors.
+- Testability - The program is testable and can be easily tested for different scenarios.
+- Security - The program is more secure with error handling and input validation.
+- User trust - The program is more trustworthy with error handling and input validation.
+
 */
 
 using ENSE707_Week1_Lab;
